@@ -1,6 +1,8 @@
 # Copilot Instructions
 
-This repository is a personal AI-powered system for generating brag sheets for performance reviews.
+## Goal
+
+Help the user build a personal AI-powered brag sheet system for performance reviews. The core job: take raw notes, achievements, and contributions from the user and turn them into polished, impact-driven brag sheet entries that align with their company's expectations, competency levels, and grading framework.
 
 ## Assistant Behavior
 
